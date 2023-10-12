@@ -8,9 +8,9 @@ import Swift
 import _Concurrency
 import _StringProcessing
 public struct Operations {
-  public static func sum() -> Swift.Double
-  public static func subtract() -> Swift.Double
-  public static func multiply() -> Swift.Double
-  public static func divide() -> Swift.Double
-  public static func squareRoot() -> Swift.Double
+  public static func addNumbers(num1: Swift.Double, num2: Swift.Double) -> Swift.Double
+  public static func subtractNumbers(num1: Swift.Double, num2: Swift.Double) -> Swift.Double
+  public static func multiplyNumbers(num1: Swift.Double, num2: Swift.Double) -> Swift.Double
+  public static func divideNumbers(num1: Swift.Double, num2: Swift.Double) -> Swift.Double
+  public static func squareRoot(of number: Swift.Double) -> Swift.Double
 }

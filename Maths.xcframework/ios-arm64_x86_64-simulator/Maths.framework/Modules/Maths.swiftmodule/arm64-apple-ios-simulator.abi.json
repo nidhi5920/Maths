@@ -21,9 +21,21 @@
         "children": [
           {
             "kind": "Function",
-            "name": "sum",
-            "printedName": "sum()",
+            "name": "addNumbers",
+            "printedName": "addNumbers(num1:num2:)",
             "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "usr": "s:Sd"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "usr": "s:Sd"
+              },
               {
                 "kind": "TypeNominal",
                 "name": "Double",
@@ -32,8 +44,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:5Maths10OperationsV3sumSdyFZ",
-            "mangledName": "$s5Maths10OperationsV3sumSdyFZ",
+            "usr": "s:5Maths10OperationsV10addNumbers4num14num2S2d_SdtFZ",
+            "mangledName": "$s5Maths10OperationsV10addNumbers4num14num2S2d_SdtFZ",
             "moduleName": "Maths",
             "static": true,
             "declAttributes": [
@@ -43,9 +55,21 @@
           },
           {
             "kind": "Function",
-            "name": "subtract",
-            "printedName": "subtract()",
+            "name": "subtractNumbers",
+            "printedName": "subtractNumbers(num1:num2:)",
             "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "usr": "s:Sd"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "usr": "s:Sd"
+              },
               {
                 "kind": "TypeNominal",
                 "name": "Double",
@@ -54,8 +78,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:5Maths10OperationsV8subtractSdyFZ",
-            "mangledName": "$s5Maths10OperationsV8subtractSdyFZ",
+            "usr": "s:5Maths10OperationsV15subtractNumbers4num14num2S2d_SdtFZ",
+            "mangledName": "$s5Maths10OperationsV15subtractNumbers4num14num2S2d_SdtFZ",
             "moduleName": "Maths",
             "static": true,
             "declAttributes": [
@@ -65,9 +89,21 @@
           },
           {
             "kind": "Function",
-            "name": "multiply",
-            "printedName": "multiply()",
+            "name": "multiplyNumbers",
+            "printedName": "multiplyNumbers(num1:num2:)",
             "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "usr": "s:Sd"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "usr": "s:Sd"
+              },
               {
                 "kind": "TypeNominal",
                 "name": "Double",
@@ -76,8 +112,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:5Maths10OperationsV8multiplySdyFZ",
-            "mangledName": "$s5Maths10OperationsV8multiplySdyFZ",
+            "usr": "s:5Maths10OperationsV15multiplyNumbers4num14num2S2d_SdtFZ",
+            "mangledName": "$s5Maths10OperationsV15multiplyNumbers4num14num2S2d_SdtFZ",
             "moduleName": "Maths",
             "static": true,
             "declAttributes": [
@@ -87,9 +123,21 @@
           },
           {
             "kind": "Function",
-            "name": "divide",
-            "printedName": "divide()",
+            "name": "divideNumbers",
+            "printedName": "divideNumbers(num1:num2:)",
             "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "usr": "s:Sd"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "usr": "s:Sd"
+              },
               {
                 "kind": "TypeNominal",
                 "name": "Double",
@@ -98,8 +146,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:5Maths10OperationsV6divideSdyFZ",
-            "mangledName": "$s5Maths10OperationsV6divideSdyFZ",
+            "usr": "s:5Maths10OperationsV13divideNumbers4num14num2S2d_SdtFZ",
+            "mangledName": "$s5Maths10OperationsV13divideNumbers4num14num2S2d_SdtFZ",
             "moduleName": "Maths",
             "static": true,
             "declAttributes": [
@@ -110,8 +158,14 @@
           {
             "kind": "Function",
             "name": "squareRoot",
-            "printedName": "squareRoot()",
+            "printedName": "squareRoot(of:)",
             "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "usr": "s:Sd"
+              },
               {
                 "kind": "TypeNominal",
                 "name": "Double",
@@ -120,8 +174,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:5Maths10OperationsV10squareRootSdyFZ",
-            "mangledName": "$s5Maths10OperationsV10squareRootSdyFZ",
+            "usr": "s:5Maths10OperationsV10squareRoot2ofS2d_tFZ",
+            "mangledName": "$s5Maths10OperationsV10squareRoot2ofS2d_tFZ",
             "moduleName": "Maths",
             "static": true,
             "declAttributes": [
@@ -141,69 +195,5 @@
     ],
     "json_format_version": 8
   },
-  "ConstValues": [
-    {
-      "filePath": "\/Users\/nidhisharma\/Desktop\/Distribution\/CocoaPods\/Framework\/Maths\/Maths\/Operations.swift",
-      "kind": "IntegerLiteral",
-      "offset": 190,
-      "length": 2,
-      "value": "10"
-    },
-    {
-      "filePath": "\/Users\/nidhisharma\/Desktop\/Distribution\/CocoaPods\/Framework\/Maths\/Maths\/Operations.swift",
-      "kind": "IntegerLiteral",
-      "offset": 193,
-      "length": 2,
-      "value": "10"
-    },
-    {
-      "filePath": "\/Users\/nidhisharma\/Desktop\/Distribution\/CocoaPods\/Framework\/Maths\/Maths\/Operations.swift",
-      "kind": "IntegerLiteral",
-      "offset": 268,
-      "length": 2,
-      "value": "50"
-    },
-    {
-      "filePath": "\/Users\/nidhisharma\/Desktop\/Distribution\/CocoaPods\/Framework\/Maths\/Maths\/Operations.swift",
-      "kind": "IntegerLiteral",
-      "offset": 271,
-      "length": 2,
-      "value": "20"
-    },
-    {
-      "filePath": "\/Users\/nidhisharma\/Desktop\/Distribution\/CocoaPods\/Framework\/Maths\/Maths\/Operations.swift",
-      "kind": "IntegerLiteral",
-      "offset": 346,
-      "length": 2,
-      "value": "10"
-    },
-    {
-      "filePath": "\/Users\/nidhisharma\/Desktop\/Distribution\/CocoaPods\/Framework\/Maths\/Maths\/Operations.swift",
-      "kind": "IntegerLiteral",
-      "offset": 349,
-      "length": 2,
-      "value": "10"
-    },
-    {
-      "filePath": "\/Users\/nidhisharma\/Desktop\/Distribution\/CocoaPods\/Framework\/Maths\/Maths\/Operations.swift",
-      "kind": "IntegerLiteral",
-      "offset": 422,
-      "length": 2,
-      "value": "50"
-    },
-    {
-      "filePath": "\/Users\/nidhisharma\/Desktop\/Distribution\/CocoaPods\/Framework\/Maths\/Maths\/Operations.swift",
-      "kind": "IntegerLiteral",
-      "offset": 425,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/nidhisharma\/Desktop\/Distribution\/CocoaPods\/Framework\/Maths\/Maths\/Operations.swift",
-      "kind": "IntegerLiteral",
-      "offset": 506,
-      "length": 3,
-      "value": "144"
-    }
-  ]
+  "ConstValues": []
 }
