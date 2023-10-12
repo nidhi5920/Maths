@@ -15,6 +15,13 @@
         ]
       },
       {
+        "kind": "Import",
+        "name": "Logger",
+        "printedName": "Logger",
+        "declKind": "Import",
+        "moduleName": "Maths"
+      },
+      {
         "kind": "TypeDecl",
         "name": "Operations",
         "printedName": "Operations",
@@ -195,5 +202,139 @@
     ],
     "json_format_version": 8
   },
-  "ConstValues": []
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/nidhisharma\/Desktop\/Distribution\/CocoaPods\/Framework\/Maths\/Maths\/Operations.swift",
+      "kind": "StringLiteral",
+      "offset": 358,
+      "length": 65,
+      "value": "\"Addition of Number \""
+    },
+    {
+      "filePath": "\/Users\/nidhisharma\/Desktop\/Distribution\/CocoaPods\/Framework\/Maths\/Maths\/Operations.swift",
+      "kind": "StringLiteral",
+      "offset": 385,
+      "length": 3,
+      "value": "\" and Number \""
+    },
+    {
+      "filePath": "\/Users\/nidhisharma\/Desktop\/Distribution\/CocoaPods\/Framework\/Maths\/Maths\/Operations.swift",
+      "kind": "StringLiteral",
+      "offset": 404,
+      "length": 2,
+      "value": "\" is  - \""
+    },
+    {
+      "filePath": "\/Users\/nidhisharma\/Desktop\/Distribution\/CocoaPods\/Framework\/Maths\/Maths\/Operations.swift",
+      "kind": "StringLiteral",
+      "offset": 422,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/nidhisharma\/Desktop\/Distribution\/CocoaPods\/Framework\/Maths\/Maths\/Operations.swift",
+      "kind": "StringLiteral",
+      "offset": 612,
+      "length": 63,
+      "value": "\"Subtraction of Number \""
+    },
+    {
+      "filePath": "\/Users\/nidhisharma\/Desktop\/Distribution\/CocoaPods\/Framework\/Maths\/Maths\/Operations.swift",
+      "kind": "StringLiteral",
+      "offset": 642,
+      "length": 3,
+      "value": "\" and Number \""
+    },
+    {
+      "filePath": "\/Users\/nidhisharma\/Desktop\/Distribution\/CocoaPods\/Framework\/Maths\/Maths\/Operations.swift",
+      "kind": "StringLiteral",
+      "offset": 661,
+      "length": 2,
+      "value": "\" is  - \""
+    },
+    {
+      "filePath": "\/Users\/nidhisharma\/Desktop\/Distribution\/CocoaPods\/Framework\/Maths\/Maths\/Operations.swift",
+      "kind": "StringLiteral",
+      "offset": 674,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/nidhisharma\/Desktop\/Distribution\/CocoaPods\/Framework\/Maths\/Maths\/Operations.swift",
+      "kind": "StringLiteral",
+      "offset": 859,
+      "length": 66,
+      "value": "\"Multiplication of Number \""
+    },
+    {
+      "filePath": "\/Users\/nidhisharma\/Desktop\/Distribution\/CocoaPods\/Framework\/Maths\/Maths\/Operations.swift",
+      "kind": "StringLiteral",
+      "offset": 892,
+      "length": 3,
+      "value": "\" and Number \""
+    },
+    {
+      "filePath": "\/Users\/nidhisharma\/Desktop\/Distribution\/CocoaPods\/Framework\/Maths\/Maths\/Operations.swift",
+      "kind": "StringLiteral",
+      "offset": 911,
+      "length": 2,
+      "value": "\" is  - \""
+    },
+    {
+      "filePath": "\/Users\/nidhisharma\/Desktop\/Distribution\/CocoaPods\/Framework\/Maths\/Maths\/Operations.swift",
+      "kind": "StringLiteral",
+      "offset": 924,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/nidhisharma\/Desktop\/Distribution\/CocoaPods\/Framework\/Maths\/Maths\/Operations.swift",
+      "kind": "StringLiteral",
+      "offset": 1105,
+      "length": 60,
+      "value": "\"Division of Number \""
+    },
+    {
+      "filePath": "\/Users\/nidhisharma\/Desktop\/Distribution\/CocoaPods\/Framework\/Maths\/Maths\/Operations.swift",
+      "kind": "StringLiteral",
+      "offset": 1132,
+      "length": 3,
+      "value": "\" and Number \""
+    },
+    {
+      "filePath": "\/Users\/nidhisharma\/Desktop\/Distribution\/CocoaPods\/Framework\/Maths\/Maths\/Operations.swift",
+      "kind": "StringLiteral",
+      "offset": 1151,
+      "length": 2,
+      "value": "\" is  - \""
+    },
+    {
+      "filePath": "\/Users\/nidhisharma\/Desktop\/Distribution\/CocoaPods\/Framework\/Maths\/Maths\/Operations.swift",
+      "kind": "StringLiteral",
+      "offset": 1164,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/nidhisharma\/Desktop\/Distribution\/CocoaPods\/Framework\/Maths\/Maths\/Operations.swift",
+      "kind": "StringLiteral",
+      "offset": 1339,
+      "length": 49,
+      "value": "\"Square Root of Number \""
+    },
+    {
+      "filePath": "\/Users\/nidhisharma\/Desktop\/Distribution\/CocoaPods\/Framework\/Maths\/Maths\/Operations.swift",
+      "kind": "StringLiteral",
+      "offset": 1371,
+      "length": 2,
+      "value": "\" is  - \""
+    },
+    {
+      "filePath": "\/Users\/nidhisharma\/Desktop\/Distribution\/CocoaPods\/Framework\/Maths\/Maths\/Operations.swift",
+      "kind": "StringLiteral",
+      "offset": 1387,
+      "length": 2,
+      "value": "\"\""
+    }
+  ]
 }

@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "Maths"
-  spec.version      = "4.0.0"
+  spec.version      = "4.0.1"
   spec.summary      = "Math is a framework which provides a few mathematical operations."
 
   
@@ -39,6 +39,6 @@ Pod::Spec.new do |spec|
   # spec.library   = "iconv"
   # spec.libraries = "iconv", "xml2"
 
-  # spec.dependency "JSONKit", "~> 1.4"
+  spec.dependency  'Logger_Math'
 
 end
