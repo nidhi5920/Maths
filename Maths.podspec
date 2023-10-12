@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "Maths"
-  spec.version      = "1.0.0"
+  spec.version      = "2.0.0"
   spec.summary      = "Math is a framework which provides a few mathematical operations."
 
   
