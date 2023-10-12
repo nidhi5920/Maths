@@ -1,0 +1,108 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Maths",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Operations",
+        "printedName": "Operations",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "sum",
+            "printedName": "sum()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "usr": "s:Sd"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Maths10OperationsV3sumSdyFZ",
+            "mangledName": "$s5Maths10OperationsV3sumSdyFZ",
+            "moduleName": "Maths",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "subtract",
+            "printedName": "subtract()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "usr": "s:Sd"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Maths10OperationsV8subtractSdyFZ",
+            "mangledName": "$s5Maths10OperationsV8subtractSdyFZ",
+            "moduleName": "Maths",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:5Maths10OperationsV",
+        "mangledName": "$s5Maths10OperationsV",
+        "moduleName": "Maths",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/nidhisharma\/Desktop\/Distribution\/CocoaPods\/Framework\/Maths\/Maths\/Operations.swift",
+      "kind": "IntegerLiteral",
+      "offset": 190,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/nidhisharma\/Desktop\/Distribution\/CocoaPods\/Framework\/Maths\/Maths\/Operations.swift",
+      "kind": "IntegerLiteral",
+      "offset": 193,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/nidhisharma\/Desktop\/Distribution\/CocoaPods\/Framework\/Maths\/Maths\/Operations.swift",
+      "kind": "IntegerLiteral",
+      "offset": 268,
+      "length": 2,
+      "value": "50"
+    },
+    {
+      "filePath": "\/Users\/nidhisharma\/Desktop\/Distribution\/CocoaPods\/Framework\/Maths\/Maths\/Operations.swift",
+      "kind": "IntegerLiteral",
+      "offset": 271,
+      "length": 2,
+      "value": "20"
+    }
+  ]
+}

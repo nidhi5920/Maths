@@ -1,0 +1,11 @@
+framework module Maths {
+  umbrella header "Maths.h"
+
+  export *
+  module * { export * }
+}
+
+module Maths.Swift {
+  header "Maths-Swift.h"
+  requires objc
+}
