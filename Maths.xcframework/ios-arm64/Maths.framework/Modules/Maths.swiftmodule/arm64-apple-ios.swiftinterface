@@ -10,4 +10,6 @@ import _StringProcessing
 public struct Operations {
   public static func sum() -> Swift.Double
   public static func subtract() -> Swift.Double
+  public static func multiply() -> Swift.Double
+  public static func divide() -> Swift.Double
 }

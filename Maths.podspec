@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "Maths"
-  spec.version      = "0.0.1"
+  spec.version      = "1.0.0"
   spec.summary      = "Math is a framework which provides a few mathematical operations."
 
   
@@ -14,7 +14,7 @@ Pod::Spec.new do |spec|
   spec.license      = { :type => "MIT", :file => "LICENSE" }
   spec.author             = { "nidhi5920" => "nidhisharma9126@gmail.com" }
   spec.platform     = :ios, "16.4"
-  spec.source       = { :git => "https://github.com/nidhi5920/Maths.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/nidhi5920/Maths.git", :tag => spec.version.to_s }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #

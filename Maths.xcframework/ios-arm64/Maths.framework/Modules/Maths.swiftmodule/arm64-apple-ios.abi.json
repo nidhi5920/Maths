@@ -62,6 +62,50 @@
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "multiply",
+            "printedName": "multiply()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "usr": "s:Sd"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Maths10OperationsV8multiplySdyFZ",
+            "mangledName": "$s5Maths10OperationsV8multiplySdyFZ",
+            "moduleName": "Maths",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "divide",
+            "printedName": "divide()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "usr": "s:Sd"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Maths10OperationsV6divideSdyFZ",
+            "mangledName": "$s5Maths10OperationsV6divideSdyFZ",
+            "moduleName": "Maths",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Struct",
@@ -103,6 +147,34 @@
       "offset": 271,
       "length": 2,
       "value": "20"
+    },
+    {
+      "filePath": "\/Users\/nidhisharma\/Desktop\/Distribution\/CocoaPods\/Framework\/Maths\/Maths\/Operations.swift",
+      "kind": "IntegerLiteral",
+      "offset": 346,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/nidhisharma\/Desktop\/Distribution\/CocoaPods\/Framework\/Maths\/Maths\/Operations.swift",
+      "kind": "IntegerLiteral",
+      "offset": 349,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/nidhisharma\/Desktop\/Distribution\/CocoaPods\/Framework\/Maths\/Maths\/Operations.swift",
+      "kind": "IntegerLiteral",
+      "offset": 422,
+      "length": 2,
+      "value": "50"
+    },
+    {
+      "filePath": "\/Users\/nidhisharma\/Desktop\/Distribution\/CocoaPods\/Framework\/Maths\/Maths\/Operations.swift",
+      "kind": "IntegerLiteral",
+      "offset": 425,
+      "length": 1,
+      "value": "2"
     }
   ]
 }
