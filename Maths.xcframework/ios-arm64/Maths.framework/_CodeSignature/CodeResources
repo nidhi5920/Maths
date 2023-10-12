@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/Maths.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		oSa1QCltfTcsoOFB0ZwvuNePp/k=
+		qi2moidpTQzpV4YzLQd/kXAaQqw=
 		</data>
 		<key>Modules/Maths.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		wt+hUfedo7Dg3OAqdJQ6d6CJ3wU=
+		p2mtrsbxG3MSdTKwtu+jHepUVLY=
 		</data>
 		<key>Modules/Maths.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/Maths.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		wt+hUfedo7Dg3OAqdJQ6d6CJ3wU=
+		p2mtrsbxG3MSdTKwtu+jHepUVLY=
 		</data>
 		<key>Modules/Maths.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		T47u7cZsFzLdKcGNlZR22A2pa4g=
+		pB6k/Py93ncMBmEbUQrSPJ4DYTo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -61,14 +61,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4hF+Lkq26mdzblEOsakeCuI+8nUWZsftcuriEOkt284=
+			ndugVq8isMMPnhlJ8jpL3pce1Y+bJIRmnGWNqaso8oc=
 			</data>
 		</dict>
 		<key>Modules/Maths.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AeIBfrfuB8mXwsoJBTm1lfskZSp1BwyTy0ZhU6O1YoA=
+			O3l0lCB6rO5LhW7MbFiKUCZS9Y/6lVolH9tEfsDIeMM=
 			</data>
 		</dict>
 		<key>Modules/Maths.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -82,14 +82,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AeIBfrfuB8mXwsoJBTm1lfskZSp1BwyTy0ZhU6O1YoA=
+			O3l0lCB6rO5LhW7MbFiKUCZS9Y/6lVolH9tEfsDIeMM=
 			</data>
 		</dict>
 		<key>Modules/Maths.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lziStG1ON0s33VdhdWmbahorYcpaCd2tZL1mU5tzqCc=
+			/ADCVbw4adNh5LkEcp3p2wrupgoVnO55BFJk7UtChhw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -106,6 +106,28 @@
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "squareRoot",
+            "printedName": "squareRoot()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "usr": "s:Sd"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Maths10OperationsV10squareRootSdyFZ",
+            "mangledName": "$s5Maths10OperationsV10squareRootSdyFZ",
+            "moduleName": "Maths",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Struct",
@@ -175,6 +197,13 @@
       "offset": 425,
       "length": 1,
       "value": "2"
+    },
+    {
+      "filePath": "\/Users\/nidhisharma\/Desktop\/Distribution\/CocoaPods\/Framework\/Maths\/Maths\/Operations.swift",
+      "kind": "IntegerLiteral",
+      "offset": 506,
+      "length": 3,
+      "value": "144"
     }
   ]
 }
